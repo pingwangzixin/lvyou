@@ -1,0 +1,37 @@
+.left{float:left;}
+.right{float:right}
+.clear{clear:both}
+a{text-decoration: none;}
+.wrap{width:750px;height:1000px;margin:0 auto;}
+.logo{width:380px;height:81px;position:relative;margin-top:30px;}
+.slogon{position:absolute;bottom:0;padding-left:15px;}
+.indexjs{width:700px;height:345px;line-height:50px;position:relative;margin:63px auto 0 auto;}
+.intext{width:450px;height:345px;}
+.intext h1{font-size:30px;color:#666}
+.intext span{color:#ff6501}
+.indexber{position:absolute;bottom:0px;right:10px}
+
+.twoimg{width:750px;height:182px;margin:50px auto}
+.biaoti{width:700px;height:60px;text-align:center;}
+.age{width:309px;height:34px;margin:0 auto;line-height:34px;}
+.age span{font-size:24px;}
+.age img{vertical-align: middle}
+.hr{width:700px;height:10px;background:url("../img/hr.png");margin:30px 0;}
+
+.jl{width:700px;height:83px;margin:0 auto}
+.jl span{display:inline-block;height:83px;text-align:center;font-size:24px;color:#999;line-height: 42px}
+.jl span b{color:#333}
+.sp1{width:180px;border-right:1px dashed #b2b2b2}
+.sp2{width:180px;border-right:1px dashed #b2b2b2}
+.sp3{width:316px;}
+
+.richeng{width:700px;height:201px;margin:0 auto;border-top:1px solid #ff6501;margin-top:30px;overflow: hidden}
+.richeng .rctop{height:200px;width:700px;background:#fdfdfd}
+.richeng .rctop .row{height:100px;}
+.richeng .rctop .row a{display:inline-block;text-align:center;line-height:100px;color:#666;font-size:24px;}
+.richeng .rctop .row a:hover{text-decoration: none;}
+.richeng .rctop .row .a1{width:240px;height:100px;}
+.richeng .rctop .row .a2{width:210px;height:100px;}
+.richeng .rctop .row a span{width:50px;height:50px;display:inline-block;padding-right:15px;}
+
+.chakan{width:700px;height:50px;margin:0 auto;background:#f6f6f6;text-align:center;line-height:50px;color:#666;font-size:22px;}
